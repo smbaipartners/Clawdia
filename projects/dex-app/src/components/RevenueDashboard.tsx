@@ -13,6 +13,21 @@ const RevenueDashboard = () => {
   const [selectedLead, setSelectedLead] = useState<Lead | null>(null);
 
   const leads: Lead[] = [
+    { name: 'Dr. Paul Nassif', status: 'New', priority: 'High', type: 'Surgery', details: 'Ultra-authority "Botched" star; complex revision specialist in Beverly Hills.' },
+    { name: 'Dr. Garth Fisher', status: 'New', priority: 'High', type: 'Surgery', details: 'World-renowned "Extreme Makeover" pioneer; elite celebrity focus in Beverly Hills.' },
+    { name: 'Dr. Jason Diamond', status: 'New', priority: 'High', type: 'Surgery', details: 'Top facial plastic surgeon to the stars; global authority in Beverly Hills.' },
+    { name: 'Epione Beverly Hills', status: 'New', priority: 'High', type: 'Cosmetic', details: 'Dr. Simon Ourian; Leading innovator in non-surgical aesthetics; massive social authority.' },
+    { name: 'Dr. Raj Kanodia', status: 'New', priority: 'High', type: 'Surgery', details: 'The "King of Rhinoplasty"; global authority for high-profile clients in Beverly Hills.' },
+    { name: 'Dr. Ritu Chopra', status: 'New', priority: 'High', type: 'Surgery', details: 'Board-certified; signature DEFINE Deep-Plane Facelift; elite surgical training in Beverly Hills.' },
+    { name: 'Dr. Jimmy S. Firouz', status: 'New', priority: 'High', type: 'Surgery', details: 'Board-certified; renowned breast specialist; aesthetic & reconstructive focus in Beverly Hills.' },
+    { name: 'Dr. Daniel Gould', status: 'New', priority: 'High', type: 'Surgery', details: 'Board-certified; Ph.D. in Bioengineering; deep plane facelift & anti-aging expert.' },
+    { name: 'Dr. Brent Moelleken', status: 'New', priority: 'High', type: 'Surgery', details: 'Double board-certified; pioneering 360 Facelift® & Hybrid Tummy Tuck® in Beverly Hills.' },
+    { name: 'Dr. Gabriel Chiu', status: 'New', priority: 'High', type: 'Surgery', details: 'Board-certified; meticulous attention to surgical precision & detail; Beverly Hills Plastic Surgery Inc.' },
+    { name: 'Smile Studios BH', status: 'New', priority: 'High', type: 'Dental', details: 'Celebrity clientele; state-of-the-art "picture-perfect" smiles in Beverly Hills.' },
+    { name: 'The Plastic Surgery Institute', status: 'New', priority: 'High', type: 'Surgery', details: 'Standard for global results; leading elite surgical facility in Beverly Hills.' },
+    { name: 'Summit Surgical Center', status: 'New', priority: 'High', type: 'Surgery', details: 'Private surgical facility for discretion and comfort; Dr. Harris.' },
+    { name: 'Brentwood Surgery Center', status: 'New', priority: 'High', type: 'Surgery', details: '21,000 sq ft state-of-the-art outpatient surgery center in Brentwood.' },
+    { name: 'SM Advanced Surgical', status: 'New', priority: 'High', type: 'Surgery', details: 'Advanced surgical technologies & leading eye specialists in Santa Monica.' },
     { name: 'Original Smile - Brentwood', status: 'New', priority: 'High', type: 'Cosmetic', details: 'High-end cosmetic dentistry; focus on extreme smile makeovers in Brentwood.' },
     { name: 'Beverly Hills Dental Care', status: 'New', priority: 'High', type: 'Dental', details: 'Comprehensive aesthetic & implant dentistry in Wilshire corridor; high-intent.' },
     { name: 'Brentwood Orthodontics', status: 'New', priority: 'High', type: 'Dental', details: 'Dr. Parker Brown; Boutique care with personalized cell service for elite clients.' },
@@ -160,11 +175,11 @@ const RevenueDashboard = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
         <div className="bg-slate-800 p-4 rounded-lg shadow border border-slate-700">
           <h3 className="text-slate-400 text-xs uppercase font-bold tracking-widest mb-1">Total Leads</h3>
-          <p className="text-3xl font-mono text-emerald-400">213</p>
+          <p className="text-3xl font-mono text-emerald-400">228</p>
         </div>
         <div className="bg-slate-800 p-4 rounded-lg shadow border border-slate-700">
           <h3 className="text-slate-400 text-xs uppercase font-bold tracking-widest mb-1">High Intent</h3>
-          <p className="text-3xl font-mono text-blue-400">171</p>
+          <p className="text-3xl font-mono text-blue-400">186</p>
         </div>
         <div className="bg-slate-800 p-4 rounded-lg shadow border border-slate-700">
           <h3 className="text-slate-400 text-xs uppercase font-bold tracking-widest mb-1">Active Campaigns</h3>
@@ -172,7 +187,7 @@ const RevenueDashboard = () => {
         </div>
         <div className="bg-slate-800 p-4 rounded-lg shadow border border-slate-700">
           <h3 className="text-slate-400 text-xs uppercase font-bold tracking-widest mb-1">Est. Deal Value</h3>
-          <p className="text-3xl font-mono text-purple-400">$532,500</p>
+          <p className="text-3xl font-mono text-purple-400">$745,000</p>
         </div>
       </div>
 
@@ -232,7 +247,7 @@ const RevenueDashboard = () => {
                     <div>
                         <p className="text-xs font-bold text-slate-400 uppercase tracking-tighter">MedScout</p>
                         <p className="text-sm text-slate-100">Scraping Batch 6 (SM/Brentwood)</p>
-                        <p className="text-[9px] text-slate-500 font-mono">L.SYNC: 18:51 PM</p>
+                        <p className="text-[9px] text-slate-500 font-mono">L.SYNC: 20:52 PM</p>
                     </div>
                     <div className="text-right text-[10px] font-black text-emerald-400 uppercase">Active</div>
                 </div>

@@ -9,5 +9,7 @@
 ## Current Tasks
 - [x] Submitter: Submit "Strategic Sales" applications for Adobe and Samsara.
 - [x] Webmaster: Draft Daily Blog Post #4 (The 3X ROI of Construction Automation).
-- [ ] Webmaster: Create "AI for Builders" landing page layout in Markdown.
-- [ ] MedScout: Enrich top 10 San Diego GCs with direct contact vectors.
+- [x] MedScout: Scrape top 10 San Diego GCs for the "Takeoff Pilot."
+- [ ] Submitter: Track "Easy Apply" status for secondary sales targets.
+- [ ] Webmaster: Map out "Construction Workflow Audit" questionnaire.
+- [ ] MedScout: Research LinkedIn profiles for Chief Estimators at Lars and CREW.

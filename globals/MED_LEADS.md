@@ -213,3 +213,18 @@
 | Brentwood Orthodontics | https://www.brentwoodorthodontics.com/ | (310) 442-2500 | Dr. Parker Brown | | | Boutique orthodontic care; personalized cell number service for elite clients |
 | Beverly Hills Dental Care | https://beverlyhillsdentalcare.com/ | (310) 859-2432 | | | | Comprehensive aesthetic & implant dentistry in Wilshire corridor |
 | Original Smile - Brentwood | https://www.originalsmile.com/ | (310) 820-8228 | | | | High-end cosmetic dentistry; focus on extreme smile makeovers |
+| Smile Studios BH | https://smilestudiosbh.com/ | (310) 273-0111 | | | | Celebrity clientele; state-of-the-art "picture-perfect" smiles |
+| The Plastic Surgery Institute | https://www.beverlyhillsplasticsurgeryinstitute.com/ | (310) 273-0111 | | | | Standard for global results; leading elite surgical facility |
+| Summit Surgical Center | https://harrisfacialplastics.com/ | (310) 273-0111 | Dr. Harris | | | Private surgical facility for discretion and comfort |
+| Brentwood Surgery Center | https://brentwoodsurgerycenter.com/ | (310) 820-2550 | | | | 21,000 sq ft state-of-the-art outpatient surgery center |
+| Santa Monica Advanced Surgical Institute | https://smasi.org/ | (310) 315-1034 | Dr. Stelzner | | | Advanced surgical technologies & leading eye specialists |
+| Dr. Ritu Chopra | https://www.ordonchopra.com/ | (310) 248-6250 | Dr. Ritu Chopra | | | Board-certified; signature DEFINE Deep-Plane Facelift; elite surgical training |
+| Dr. Jimmy S. Firouz | https://www.drfirouz.com/ | (310) 274-4321 | Dr. Jimmy S. Firouz | | | Board-certified; renowned breast specialist; aesthetic & reconstructive focus |
+| Dr. Daniel Gould | https://drgouldplasticsurgery.com/ | (310) 273-0111 | Dr. Daniel Gould | | | Board-certified; Ph.D. in Bioengineering; deep plane facelift & anti-aging expert |
+| Dr. Brent Moelleken | https://www.drbrent.com/ | (310) 273-1001 | Dr. Brent Moelleken | | | Double board-certified; pioneering 360 Facelift® & Hybrid Tummy Tuck® |
+| Dr. Gabriel Chiu | https://www.beverlyhillsplasticsurgeryinc.com/surgeon/ | (310) 888-8087 | Dr. Gabriel Chiu | | | Board-certified; meticulous attention to surgical precision & detail |
+| NassifMD® Plastic Surgery | https://www.drpaulnassif.com/ | (424) 453-8966 | Dr. Paul Nassif | | | Ultra-authority "Botched" star; complex revision specialist |
+| Dr. Garth Fisher | https://www.garthfisher.com/ | (310) 273-5995 | Dr. Garth Fisher | | | World-renowned "Extreme Makeover" pioneer; elite celebrity focus |
+| Jason B. Diamond, MD | https://www.jasonbdiamond.com/ | (310) 859-9816 | Dr. Jason Diamond | | | Top facial plastic surgeon to the stars; global authority |
+| Epione Beverly Hills | https://www.epionebh.com/ | (310) 651-6267 | Dr. Simon Ourian | | | Leading innovator in non-surgical aesthetics; massive social authority |
+| Dr. Raj Kanodia | https://www.drkanodia.com/ | (310) 276-3106 | Dr. Raj Kanodia | | | The "King of Rhinoplasty"; global authority for high-profile clients |
