@@ -24,3 +24,12 @@
 ## Next 30 Minutes
 - Submitting applications to Adobe, Webflow, and Samsara.
 - Tracking LinkedIn "Easy Apply" status for secondary targets.
+
+## Secondary Targets Easy Apply Status
+- **NinjaOne**: Easy Apply NOT AVAILABLE (Direct application on company website only).
+- **Qualtrics**: Easy Apply ACTIVE (Third-party recruiters like Veracity Software often use Easy Apply).
+- **Spark Advisors**: Easy Apply NOT AVAILABLE.
+- **Purple Cow**: Easy Apply ACTIVE (Multiple Remote CA/West listings confirmed for "Purple Cow Recruiting").
+- **Protech Talent**: Easy Apply ACTIVE.
+- **DiSalvo LLC**: Easy Apply NOT AVAILABLE.
+- **Indigo Solutions**: Easy Apply NOT AVAILABLE.
