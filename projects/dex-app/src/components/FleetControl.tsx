@@ -2,10 +2,10 @@ import React from 'react';
 
 const FleetControl = () => {
   const agents = [
-    { name: 'MedScout-Alpha', task: 'Lead Generation', status: 'Active', load: '65%', uptime: '14h 22m' },
-    { name: 'Submitter-Beta', task: 'Portal Entry', status: 'Standby', load: '0%', uptime: '4h 10m' },
-    { name: 'Producer-Gamma', task: 'Briefing Prep', status: 'Queued', load: '12%', uptime: '1h 05m' },
-    { name: 'Specialist-Delta', task: 'Technical Audit', status: 'Sleep', load: '0%', uptime: '0m' },
+    { name: 'MedScout-Alpha', task: 'Lead Generation (Batch 7)', status: 'Active', load: '68%', uptime: '31h 12m' },
+    { name: 'Submitter-Beta', task: 'Portal Entry', status: 'Standby', load: '0%', uptime: '20h 44m' },
+    { name: 'Producer-Gamma', task: 'Briefing Prep (08:00)', status: 'Queued', load: '12%', uptime: '7h 12m' },
+    { name: 'Specialist-Delta', task: 'Outreach Queue Build', status: 'Active', load: '45%', uptime: '0h 21m' },
   ];
 
   return (
