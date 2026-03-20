@@ -51,6 +51,8 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - Don't run destructive commands without asking.
 - `trash` > `rm` (recoverable beats gone forever)
 - When in doubt, ask.
+- **Context Limits:** Do NOT attempt to read `.sqlite` files, massive logs, or raw scrape data directly into context. If you need database info, use SQL queries to fetch small batches. Use `head`, `tail`, or `grep` for large logs.
+- Keep working context lean. Rely on semantic search (`memory_search`) for past memories rather than loading massive files into the context window.
 
 ## External vs Internal
 
